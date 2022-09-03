@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b4c4c2c5c4dcdc8449b789cbc198d6f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _shiPrefab: {fileID: 8743615364602164953, guid: 5880dfaec6614e54084a6b17f6115117, type: 3}
+  - _spaceStation: {fileID: 3965908240847984507, guid: db882aedfa6bd3d45a51a28518232011, type: 3}
+  - _shipStartPosition: {instanceID: 0}
+  - _stationStartPosition: {instanceID: 0}
+  - _camera: {instanceID: 0}
+  - _inGameUi: {instanceID: 0}
+  - _pausedUI: {instanceID: 0}
+  - _gameOverUI: {instanceID: 0}
+  - _mainMenuUI: {instanceID: 0}
+  - _spawner: {instanceID: 0}
+  - _currentShip: {instanceID: 0}
+  - _currentSpaceStation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
